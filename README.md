@@ -1,3 +1,3 @@
-# gs_Expansion_Python
+# python講座
 
   - チャットボットニュース
